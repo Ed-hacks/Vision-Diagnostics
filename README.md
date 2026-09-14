@@ -1,6 +1,6 @@
 Vision Diagnostics Centre — Booking Website
 
-Live: [your link]
+Live: https://vision-diagnostics-4ksstg28s-ed-hacks.vercel.app
 
 Built with React + Vite. Simple landing + appointment flow for a medical diagnostics centre in Delta State.
 
